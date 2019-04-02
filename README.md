@@ -1,4 +1,6 @@
-# project
+# Domnoo
+
+Domnoo is a website for a pizza resturant. 
 
 ## Project setup
 ```
