@@ -1,6 +1,7 @@
 # Domnoo
 
-Domnoo is a website for a pizza resturant. 
+- Domnoo is a website for a pizza resturant built built with Vue.js and Vue Material.
+- This project fetches data from a backend API.
 
 ## Project setup
 ```
